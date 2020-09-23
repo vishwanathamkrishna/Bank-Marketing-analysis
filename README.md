@@ -167,3 +167,23 @@ A system with the high recall but having low precision returns many results, but
 ### Conclusion:
 
 We have implemented **Random Forest Classifier (classification model)** that can predict accurately whether the client will subscribe term deposit or not.
+
+
+### Contributors:
+1. Aniruddha Sudhindra Shirahatti
+2. Chandrakanth Rajesh
+3. Krishna Vishwanatham
+4. Digvijay Gole
+5. Yash Bonde
+
+
+### Contact
+Aniruddha Sudhindra Shirahatti - ashiraha@uncc.edu
+
+Chandrakanth Rajesh - crajesh@uncc.edu
+
+Krishna Vishwanatham - kvishwa1@uncc.edu
+
+Digvijay Gole - dgole@uncc.edu
+
+Yash Bonde - ybonde1@uncc.edu
