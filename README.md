@@ -170,9 +170,9 @@ We have implemented **Random Forest Classifier (classification model)** that can
 
 
 ### Contributors:
-1. Aniruddha Sudhindra Shirahatti
-2. Chandrakanth Rajesh
-3. Krishna Vishwanatham
+1. Krishna Vishwanatham
+2. Aniruddha Sudhindra Shirahatti
+3. Chandrakanth Rajesh
 4. Digvijay Gole
 5. Yash Bonde
 
